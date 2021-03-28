@@ -1,0 +1,23 @@
+{
+    "name": "classroom",
+    "short_name": "classroom",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "black",
+    "theme_color": "#0xFF5032b6",
+    "description": "Summer info.",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "icons/HGPASSETS_Emblem_Yellow.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/HGPASSETS_Emblem_Yellow.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
